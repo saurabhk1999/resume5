@@ -1,36 +1,61 @@
-# Hi there, I'm Saurah Kumar! 👋
-## Cloud Engineer | Azure | AWS | DevOps
+Saurabh Kumar  
+Cloud Operations Engineer with 3 years of hands-on experience managing and optimizing cloud infrastructure on AWS and Azure. Skilled in automation, system administration (Linux & Windows), infrastructure as code (Terraform, Ansible), and 24x7 incident response. Proven ability to improve system reliability, security, and performance in fast-paced environments.
+EDUCATION 
+B.N High School Sehan, Vaishali, Bihar — Matriculation. 
+Year of passing - 2015
+Board-Bihar School Examination Board, Patna.
 
-I'm passionate about leveraging cloud technologies to build scalable and reliable solutions. With expertise in Azure, AWS, and DevOps practices, I strive to optimize workflows and enhance productivity.
+Akshay watt college mahua, Vaishali – 10+2
+Year of passing -2018, Science
+Board - Bihar School Examination Board, Patna
 
-🔭 I’m currently working on cloud-native applications and infrastructure automation.
+Government Polytechnic College, Bhagalpur, Bihar —
+Diploma in Engineering. 
+Year - 2018-2021
+Branch- Computer Science & Engineering.
+Board- State Board of Technical Education, Bihar 
 
-🌱 I’m currently learning Kubernetes and advanced DevOps techniques.
+EXPERIENCE  
+Birlasoft Limited.  	     28th April 2022- Present  
+Role – Analyst (cloud operations)  
+•	Managed and optimized cloud infrastructure (AWS, Azure), ensuring uptime, scalability, and security for production systems.
+•	Resolved critical incidents via 24x7 on-call support, reducing MTTR and ensuring high availability.
+•	Monitored system resources (CPU, memory, disk usage), performed capacity planning, and optimized infrastructure performance to enhance customer experience.
+•	Administered Linux and Windows servers; handled OS patching, security updates, and performance tuning.
+•	Implemented and maintained monitoring solutions, proactively addressing infrastructure issues.
+•	Utilized Terraform (IaC) and PowerShell to automate infrastructure deployment and management.
+•	Collaborated with development and security teams to enhance system reliability and enforce cloud security best practices, including IAM and certificate management.
 
-💬 Ask me about Azure, AWS, CI/CD pipelines, infrastructure as code (IaC), or anything related to cloud computing!
 
-### Skills:
-- Azure: Azure App Service, Azure Functions, Azure DevOps, Azure SQL Database, Azure Virtual Machines, Azure Kubernetes Service (AKS), Azure Cosmos DB, etc.
-- AWS: EC2, S3, Lambda, IAM, RDS, ECS, CloudFormation, AWS CLI, etc.
-- DevOps: Git, Jenkins, Docker, Kubernetes, Terraform, Ansible, Prometheus, Grafana, etc.
-
-### 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-saurahkumar-blue)](https://www.linkedin.com/in/saurahkumar/)
-[![GitHub](https://img.shields.io/badge/GitHub-saurahkumar-green)](https://github.com/saurahkumar)
-
-### 📊 GitHub Stats:
-![Saurah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saurahkumar&show_icons=true&theme=radical)
-
-### 🚀 My Latest Projects:
-- [Project 1](link_to_project_1): Short description.
-- [Project 2](link_to_project_2): Short description.
-
-### 🌐 Checkout my Blogs:
-- [Blog 1](link_to_blog_1): Title.
-- [Blog 2](link_to_blog_2): Title.
-
-### 📚 My Latest Articles:
-- [Article 1](link_to_article_1): Title.
-- [Article 2](link_to_article_2): Title.
-
-Feel free to reach out and connect!
+www.linkedin.com/in/saurabh-kumar-406647200
+Vaishali, Bihar, 844112
+Phone +91 9709727785 
+Email saurabh50145@gmail.com  
+  
+Technical Skills
+•	DevOps Tools.
+•	Azure cloud.
+•	Linux Administration.
+•	Infrastructure as Code (IaC), terraform.
+•	Troubleshooting and Support.
+•	Windows Server Administration
+•	ITIL Processes.
+•	Service Now
+Soft Skills
+•	Strong communication skill. 
+•	Teamwork.
+•	Collaboration.
+•	Problem solving & critical thinking.
+•	Adaptability
+  
+  Certificates  
+•	Linux Administrations – Coursera.  
+•	Azure Fundamentals 
+•	Azure Administrators Associate  
+•	Microsoft Fundamentals
+•	DevOps Tools – Koenig 
+Solutions. 
+ 
+  Languages  
+•	Hindi
+•	English 
